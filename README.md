@@ -8,6 +8,7 @@ Module 11 Challenge
       $ conda install -c conda-forge google-colab
 
 ### Code source references: 
-+ (Open In Colab Badge Icon)[https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb]
++ ([Open In Colab Badge Icon](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+
 + 
       
