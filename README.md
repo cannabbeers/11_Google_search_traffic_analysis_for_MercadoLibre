@@ -10,6 +10,23 @@ Step 3: Relate the search traffic to stock price patterns
 
 Step 4: Create a time series model with Prophet
 
+Python implementation: CPython
+Python version       : 3.7.13
+IPython version      : 7.31.1
+
+Compiler    : MSC v.1916 64 bit (AMD64)
+OS          : Windows
+Release     : 10
+Machine     : AMD64
+Processor   : Intel64 Family 6 Model 154 Stepping 4, GenuineIntel
+CPU cores   : 12
+Architecture: 64bit
+
+pandas   : 1.3.5
+holoviews: 1.15.0
+hvplot   : 0.8.0
+numpy    : 1.21.5
+
 
 ## Usage
 
